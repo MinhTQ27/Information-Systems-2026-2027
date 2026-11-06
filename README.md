@@ -1,5 +1,5 @@
 USTH Information Systems 2026
 =============================
 
-* Your name here
-* Your ID here
+* Student Name: Trịnh Quang Minh
+* Student ID: 2640018
